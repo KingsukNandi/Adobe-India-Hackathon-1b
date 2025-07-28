@@ -1,4 +1,4 @@
-# PDF Summarizer Web App
+# Persona-Driven Document Intelligence (1b)
 
 ## Deliverables
 
