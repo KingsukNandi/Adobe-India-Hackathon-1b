@@ -1,14 +1,5 @@
 # Persona-Driven Document Intelligence (1b)
 
-## Deliverables
-
-- `approach_explanation.md`: Explains the methodology and design decisions (see that file for details).
-- `Dockerfile`: Multi-stage build for React frontend and Flask backend (see below).
-- **Execution instructions**: How to build and run the app using Docker.
-- **Sample input/output**: Example usage for testing the app.
-
----
-
 ## Project Overview
 
 This project is a full-stack web application for uploading PDF files and generating structured summaries. It consists of:
